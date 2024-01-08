@@ -1,0 +1,14 @@
+C:\Users\user\Documents\C# çalışmaları\Programming_Lab\obj\Debug\Programming_Lab.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C# çalışmaları\Programming_Lab\obj\Debug\Programming_Lab.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C# çalışmaları\Programming_Lab\bin\Debug\Programming_Lab.exe.config
+C:\Users\user\Documents\C# çalışmaları\Programming_Lab\bin\Debug\Programming_Lab.exe
+C:\Users\user\Documents\C# çalışmaları\Programming_Lab\bin\Debug\Programming_Lab.pdb
+C:\Users\user\Documents\C# çalışmaları\Programming_Lab\obj\Debug\Programming_Lab.exe
+C:\Users\user\Documents\C# çalışmaları\Programming_Lab\obj\Debug\Programming_Lab.pdb
+C:\Users\user\Desktop\Project2\Programming_Lab\bin\Debug\Programming_Lab.exe.config
+C:\Users\user\Desktop\Project2\Programming_Lab\bin\Debug\Programming_Lab.exe
+C:\Users\user\Desktop\Project2\Programming_Lab\bin\Debug\Programming_Lab.pdb
+C:\Users\user\Desktop\Project2\Programming_Lab\obj\Debug\Programming_Lab.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project2\Programming_Lab\obj\Debug\Programming_Lab.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project2\Programming_Lab\obj\Debug\Programming_Lab.exe
+C:\Users\user\Desktop\Project2\Programming_Lab\obj\Debug\Programming_Lab.pdb
